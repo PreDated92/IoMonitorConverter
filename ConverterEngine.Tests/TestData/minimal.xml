@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Events>
+  <Method_Enter Timestamp="1234567890000000" ThreadID="1234" Address="0x12345" TraceSource="VISA" MethodName="viOpen" AppName="TestApp">
+    <Parameter Name="vi">
+      <Element Value="123" />
+    </Parameter>
+  </Method_Enter>
+  <Method_Exit Timestamp="1234567890100000" ThreadID="1234" Address="0x12345" ElapsedNS="50000000">
+  </Method_Exit>
+</Events>
